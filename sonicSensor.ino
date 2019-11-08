@@ -9,7 +9,7 @@
 char auth[] = "oLxHmc3_SufZDfwMhbU-Xu_CjKZxTmWL";
 
 char ssid[] = "nvtestwireless";
-char pass[] = "Sp33doflight";
+char pass[] = "";
 
 WidgetLCD lcd(V1);
 
