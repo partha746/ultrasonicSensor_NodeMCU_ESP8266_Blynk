@@ -6,7 +6,7 @@
 #define TRIGGERPIN D1
 #define ECHOPIN    D2
 
-char auth[] = "oLxHmc3_SufZDfwMhbU-Xu_CjKZxTmWL";
+char auth[] = "";
 
 char ssid[] = "nvtestwireless";
 char pass[] = "";
