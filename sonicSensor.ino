@@ -8,7 +8,7 @@
 
 char auth[] = "";
 
-char ssid[] = "nvtestwireless";
+char ssid[] = "";
 char pass[] = "";
 
 WidgetLCD lcd(V1);
